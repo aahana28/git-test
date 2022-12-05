@@ -66,14 +66,9 @@ left: 584px;
 top: 876px;
 }
 
-.goodreads:hover{
-fill:#e9e5cd
-}
 
-.spotify:hover{
-    fill:#1DB954
 
-}
+
 .spotify{
     position: absolute;
 width: 71px;
