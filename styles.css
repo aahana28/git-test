@@ -1,0 +1,92 @@
+h1{
+
+    width: 277px;
+    height: 81px;
+    left: 582px;
+    top: 85px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 81px;
+    /* identical to box height */
+    
+    
+    color: #18171C;
+
+}
+
+.one{
+    position: absolute;
+width: 724.56px;
+height: 205px;
+left: 134px;
+top: 290px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 32.605px;
+line-height: 41px;
+
+color: #18171C;
+
+}
+
+.two{
+    position: absolute;
+width: 724.56px;
+height: 287px;
+left: 134px;
+top: 513.71px;
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 32.605px;
+line-height: 41px;
+
+color: #18171C;
+}
+
+.tori{
+    position: absolute;
+width: 376px;
+height: 352px;
+left: 1003px;
+top: 305px;
+border-radius: 200px;
+}
+
+.goodreads{
+    position: absolute;
+width: 56px;
+height: 64px;
+left: 584px;
+top: 876px;
+}
+
+.goodreads:hover{
+fill:#e9e5cd
+}
+
+.spotify:hover{
+    fill:#1DB954
+
+}
+.spotify{
+    position: absolute;
+width: 71px;
+height: 71px;
+left: 684px;
+top: 870px;
+}
+
+.letterboxd{
+    position: absolute;
+width: 60px;
+height: 60px;
+left: 799px;
+top: 875px;
+
+}
